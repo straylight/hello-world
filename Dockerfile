@@ -1,4 +1,4 @@
-FROM golang:3.18.6 as builder
+FROM golang:latest as builder
 
 LABEL maintainer="Tom"
 
