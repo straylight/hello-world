@@ -11,7 +11,7 @@ Learning new things, connecting them together. Hoping to cover:
 
 I followed a [tutorial](https://www.coding-bootcamps.com/build-containerized-applications-with-golang-on-kubernetes/) on building a containerized kubernetes application in golang. The end result was a 3 pod deployment hosting the simple application.
 
-![test](deployment.png)
+![test](docs/files/deployment.png)
 
 
 ## The plan...
